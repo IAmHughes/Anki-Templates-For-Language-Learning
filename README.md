@@ -1,5 +1,5 @@
 # Anki-Templates-For-Language-Learning
-This repo contains templates for Anki, the SRS. Specifically for language learners and polygots. It has specific styles for languages that use gender as well (i.e. masculine, feminine, neuter)
+This repo contains templates for Anki, the SRS. Specifically for language learners and polygots. It has specific styles for languages that use gender as well (i.e. masculine, feminine, neuter).
 
 ### Acknowledgements:
 - [Fluent Forever](http://www.fluent-forever.com/) - This is the method I am using with Anki to learn languages
