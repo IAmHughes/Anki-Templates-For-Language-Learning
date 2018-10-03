@@ -1,6 +1,8 @@
 # Anki-Templates-For-Language-Learning
 This repo contains note-type and card templates for Anki SRS. Specifically for language learners and polygots. It has specific styles for languages that use gender as well (i.e. masculine, feminine, neuter).
 
+## Contributing
+
 ### Acknowledgements:
 - [Fluent Forever](http://www.fluent-forever.com/) - This is the method I am using with Anki to learn languages
   - [Your first 625 Words - Base Vocabulary List](https://fluent-forever.com/the-method/vocabulary/base-vocabulary-list/) - This is a list of the first 625 words you should learn in your target language, based on the frequency of these words being used across all languages
