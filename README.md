@@ -2,6 +2,7 @@
 This repo contains note-type and card templates for Anki SRS. Specifically for language learners and polygots. It has specific styles for languages that use gender as well (i.e. masculine, feminine, neuter).
 
 ## Contributing
+If you are interested in contributing or providing feedback, requests, etc for additional note types, please open an issue on the repository.
 
 ### Acknowledgements:
 - [Fluent Forever](http://www.fluent-forever.com/) - This is the method I am using with Anki to learn languages
